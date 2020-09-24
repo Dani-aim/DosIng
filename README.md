@@ -16,6 +16,6 @@ socket |
 Simple commands for installing these requirements :
 
 pip install sys |
-pip install ramdom |
+pip install random |
 pip install socket |
 pip install os |
