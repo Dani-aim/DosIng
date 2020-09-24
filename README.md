@@ -8,14 +8,14 @@ We are not responsible for any illegality committed with this tool!
 
 # Requirements
 
-os
-sys
-random
-socket
+os |
+sys |
+random |
+socket |
 
 Simple commands for installing these requirements :
 
-pip install sys
-pip install ramdom
-pip install socket
-pip install os
+pip install sys |
+pip install ramdom |
+pip install socket |
+pip install os |
